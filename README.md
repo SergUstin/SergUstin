@@ -7,8 +7,9 @@
 </h1>
 
 ---
-
-### :hammer_and_wrench: Languages and Tools :
+<div align="center">
+   :hammer_and_wrench: Languages and Tools :
+</div>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
@@ -16,8 +17,9 @@
 </div>
 
 ---
+<div align="center">
+  :fire: My Stats :
 
-### :fire: My Stats :
+  [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SergUstin)](https://github.com/anuraghazra/github-readme-stats ) 
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SergUstin)](https://github.com/anuraghazra/github-readme-stats ) 
-
+</div>
