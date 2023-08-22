@@ -28,7 +28,7 @@
 ---
 
   <!-- [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SergUstin)](https://github.com/anuraghazra/github-readme-stats ) -->
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergUstin&show_icons=true&bg_color=fff&rank_icon=percentile&exclude_repo=github-readme-stats)
+  <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergUstin&show_icons=true&bg_color=fff&rank_icon=percentile&exclude_repo=github-readme-stats) -->
 
 </div>
 
