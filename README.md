@@ -4,7 +4,7 @@
 
 <div align="center">
   <h3>About me</h3>
-  <span>Since the summer of 2022, he began actively studying Java development.
+  <span>Since December 2022, he began actively studying Java development.
     Qualifications are obtained from online courses and classes with a mentor. I publish daily results on GitHub.</span>
 </div>
 
