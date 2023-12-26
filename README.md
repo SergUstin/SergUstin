@@ -12,8 +12,6 @@
 
 <div align="center">
   :fire: My Stats :
-</div><br>
-
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="InteliJ" title="InteliJ" width="40" height="40"/>&nbsp;
@@ -26,8 +24,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title ="docker" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo)"title ="postman" width="40" height="40"/>&nbsp;
 
----
 
   <!-- [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SergUstin)](https://github.com/anuraghazra/github-readme-stats ) -->
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergUstin&show_icons=true&bg_color=fff&rank_icon=percentile&exclude_repo=github-readme-stats)
