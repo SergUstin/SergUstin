@@ -27,7 +27,7 @@
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo)"title ="postman" width="40" height="40"/>&nbsp;
 
 
-  <!-- [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SergUstin)](https://github.com/anuraghazra/github-readme-stats ) -->
+  [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SergUstin)](https://github.com/anuraghazra/github-readme-stats ) 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergUstin&show_icons=true&bg_color=fff&rank_icon=percentile&exclude_repo=github-readme-stats)
 
 </div>
