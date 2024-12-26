@@ -3,14 +3,6 @@
 ---
 
 <div align="center">
-  <h3>About me</h3>
-  <span>Since December 2022, he began actively studying Java development.
-    Qualifications are obtained from online courses and classes with a mentor. I publish daily results on GitHub.</span>
-</div>
-
----
-
-<div align="center">
   :fire: My Stats :
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
